@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OldemarJesus
-- 👀 I’m interested in Development Word
-- 🌱 I’m currently learning PHP (Laravel framework)
+- 👀 I’m interested mostly with Programming itself and explore new frameworks and programming language
+- 💪 My favorite language is Java and English 😁
+- 🌱 Currently working as DevOps
 - 💞️ I’m looking to collaborate on web application development
 - 📫 Can contact by my personal mail
 
