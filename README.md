@@ -1,7 +1,5 @@
-<img src="[codemaker.png](https://photos.app.goo.gl/KxrWPFPF5QZvWCM66)" alt="Vishnu Sivan" width="100%" />
+!([Oldemar Jesus](https://photos.app.goo.gl/KxrWPFPF5QZvWCM66)))
 <img src="[animated/light_1.gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" height="20px" />
-// or
-![Oldemar Jesus](codemaker.png)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
