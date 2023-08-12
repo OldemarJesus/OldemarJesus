@@ -1,4 +1,4 @@
-![Oldemar Jesus](https://lh3.googleusercontent.com/pw/AIL4fc81K5qizh_-zcQNASiLFzjqTmEWYiSQ-7OhlfnM3tKo6QTwAi5vV8Vvc2jCA9_yxlNhgLtLPFlx-jBh_hoVARNDSRLFbGZRoYdqLVfQrGsSoZmVG6OCTuT2BAPFE7SilXh5lc6l8pzkxVp32wAWruXiTg=w711-h947-s-no?authuser=0)
+![Oldemar Jesus](https://drive.google.com/file/d/1DL6exbjyO-DsCvbEEpZUIWZ_14zgMztI/view?usp=drive_link)
 <img src="[animated/light_1.gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" height="20px" />
 
 <div id="header" align="center">
