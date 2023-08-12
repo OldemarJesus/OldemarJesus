@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/pw/AIL4fc-fN5f9JZYw32L0eOjq4EIacc1V_j7Zs99X9DFHHixz24oMeXrfwQRdxON49hUw7_oN2g3XIgVXJsaalTaPiA-YXYVj1VVBnjnGvPc73NObpk3ghrEf6UVjWDxmMmRfjIRIj6VFZAOVOf0PREOvgzE7Dw=w100-h100-s-no?authuser=0" alt="Oldemar Jesus" style="border-radius: 100%" />
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc-fN5f9JZYw32L0eOjq4EIacc1V_j7Zs99X9DFHHixz24oMeXrfwQRdxON49hUw7_oN2g3XIgVXJsaalTaPiA-YXYVj1VVBnjnGvPc73NObpk3ghrEf6UVjWDxmMmRfjIRIj6VFZAOVOf0PREOvgzE7Dw=w100-h100-s-no?authuser=0" alt="Oldemar Jesus" />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
