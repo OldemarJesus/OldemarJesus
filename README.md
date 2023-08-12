@@ -1,4 +1,4 @@
-!([Oldemar Jesus](https://photos.app.goo.gl/KxrWPFPF5QZvWCM66))
+![Oldemar Jesus](https://photos.app.goo.gl/KxrWPFPF5QZvWCM66)
 <img src="[animated/light_1.gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" height="20px" />
 
 <div id="header" align="center">
