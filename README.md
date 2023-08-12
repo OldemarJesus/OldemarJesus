@@ -1,3 +1,8 @@
+<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="animated/light_1.gif" height="20px" />
+// or
+![Vishnu Sivan](codemaker.png)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
