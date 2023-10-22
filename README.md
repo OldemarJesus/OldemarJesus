@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working as **DevOps**
 
-- 📫 How to reach me **oldemego@gmail.com**
-
 - 👨‍💻 All of my projects are available at [https://github.com/OldemarJesus](https://github.com/OldemarJesus)
 
 - 💬 Ask me about **Java, JavaScript or NextJS**
-
-- 📫 How to reach me **oldemego@gmail.com**
 
 - 📄 Know about my experiences [https://oldemarjesus.github.io/myportfolio/](https://oldemarjesus.github.io/myportfolio/)
 
